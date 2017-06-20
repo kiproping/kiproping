@@ -9,6 +9,13 @@
 .navbar .nav {
   float: right; }
 
+.navbar .mainbar {
+  margin-bottom: inherit; }
+
+.navbar p {
+  font-size: 1.2em; }
+}
+
 /* posts index */
 .post > h3.title {
   position: relative;
